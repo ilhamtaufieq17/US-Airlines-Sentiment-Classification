@@ -36,7 +36,7 @@ The analysis uses a dataset containing tweets about US airlines. Each tweet is l
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:ilhamtaufieq17/FruApp.git
+    https://github.com/ilhamtaufieq17/US-Airlines-Sentiment-Classification.git
     
 ## Project Workflow
 1. Data Exploration and Cleaning:
